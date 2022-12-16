@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@remix-project/remixd": "^0.6.9"
+  },
+  "scripts": {
+    "start": "remixd"
+  }
+}
